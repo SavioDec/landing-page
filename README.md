@@ -1,0 +1,2 @@
+# blog-cursojs
+ landing page 
