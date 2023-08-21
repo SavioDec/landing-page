@@ -260,4 +260,14 @@
     color: var(--primary-color);
     border: 0.1rem solid var(--primary-color);
   }
+
+  .mobile-correction {
+    font-size: 4.6rem;
+}
+}
+
+@media (max-width: 300px) {
+.mobile-correction {
+    font-size: 3rem;
+}
 }
